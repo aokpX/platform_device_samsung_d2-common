@@ -88,7 +88,7 @@ PRODUCT_PACKAGES += lights.msm8960
 
 # Charging LED property
 PRODUCT_PROPERTY_OVERRIDES += \
-    persist.sys.enable-charging-led=0
+    persist.sys.enable-charging-led=1
 
 # Increase the HWUI font cache since we have tons of RAM
 PRODUCT_PROPERTY_OVERRIDES += \
