@@ -305,4 +305,8 @@
 
     <!-- Panel auto brightness value -->
     <integer name="config_panelAutoBrightnessValue">1</integer>
+
+    <!-- Hardware 'face' keys present on the device; see framework -->
+    <integer name="config_deviceHardwareKeys">7</integer>
+
 </resources>
